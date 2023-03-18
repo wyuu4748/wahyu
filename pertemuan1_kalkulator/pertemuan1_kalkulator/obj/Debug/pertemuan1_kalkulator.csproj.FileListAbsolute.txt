@@ -1,0 +1,8 @@
+D:\TOGAS IF04\pertemuan1_kalkulator\pertemuan1_kalkulator\bin\Debug\pertemuan1_kalkulator.exe.config
+D:\TOGAS IF04\pertemuan1_kalkulator\pertemuan1_kalkulator\bin\Debug\pertemuan1_kalkulator.exe
+D:\TOGAS IF04\pertemuan1_kalkulator\pertemuan1_kalkulator\bin\Debug\pertemuan1_kalkulator.pdb
+D:\TOGAS IF04\pertemuan1_kalkulator\pertemuan1_kalkulator\obj\Debug\pertemuan1_kalkulator.csproj.AssemblyReference.cache
+D:\TOGAS IF04\pertemuan1_kalkulator\pertemuan1_kalkulator\obj\Debug\pertemuan1_kalkulator.csproj.SuggestedBindingRedirects.cache
+D:\TOGAS IF04\pertemuan1_kalkulator\pertemuan1_kalkulator\obj\Debug\pertemuan1_kalkulator.csproj.CoreCompileInputs.cache
+D:\TOGAS IF04\pertemuan1_kalkulator\pertemuan1_kalkulator\obj\Debug\pertemuan1_kalkulator.exe
+D:\TOGAS IF04\pertemuan1_kalkulator\pertemuan1_kalkulator\obj\Debug\pertemuan1_kalkulator.pdb
